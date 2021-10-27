@@ -1,6 +1,8 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/1665437/139043702-4d0ef4eb-47c7-4b9b-b5d7-64e2c881ff00.gif" width="100" height="100">
 
 <!--
+### Hi there 👋
+
 **lkwq007/lkwq007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
